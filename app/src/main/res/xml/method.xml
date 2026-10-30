@@ -221,6 +221,15 @@
     />
     <subtype android:icon="@drawable/ic_ime_switcher"
         android:label="@string/subtype_generic"
+        android:subtypeId="0x52e6b438"
+        android:imeSubtypeLocale="br"
+        android:languageTag="br"
+        android:imeSubtypeMode="keyboard"
+        android:imeSubtypeExtraValue="KeyboardLayoutSet=MAIN:azerty,AsciiCapable,EmojiCapable"
+        android:isAsciiCapable="true"
+    />
+    <subtype android:icon="@drawable/ic_ime_switcher"
+        android:label="@string/subtype_generic"
         android:subtypeId="0xd2e520d5"
         android:imeSubtypeLocale="ca"
         android:languageTag="ca"
